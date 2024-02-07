@@ -322,4 +322,4 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Catriona Osborn Moar](https://github.com/CatrionaOM)
 - [DominiqueMakowski](https://github.com/DominiqueMakowski)
 - [Faris Al-kadi](https://github.com/Faris316)
-
+- [Sofia Turcany Diaz] (https://github.com/SofiaTurcany) 
